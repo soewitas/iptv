@@ -1,0 +1,74 @@
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CNN
+http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/192?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CNBC
+http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/194?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MSNBC
+http://greenstreamtv.xyz:25461/MS11/M1234/190?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CNBC World(M)
+http://tv.mediaxyz1.com:8000/elnica232125/je25jO1Uac/1597?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s28717_h3_aa.png" group-title="Undefined",NBC
+http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC News International
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISNEY CHANNEL
+http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/175?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO 2 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/140421?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO 2
+http://185.232.53.5:2086/arellano/kgtL965n2Y/14949?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO East
+http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/11048?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO FAMILY
+http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/3766?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL
+http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/51?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISCOVERY FAMILY
+http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/103?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/53?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BLOOMBERG
+http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/199?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC EDMONTON
+http://185.232.53.5:2086/arellano/kgtL965n2Y/15276?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV 2 VANCOUVER
+http://greenstreamtv.xyz:25461/MS11/M1234/8027?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV
+http://185.232.53.5:2086/arellano/kgtL965n2Y/3768?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV MONTREAL
+http://greenstreamtv.xyz:25461/MS11/M1234/8030?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV NEWS CHANNEL
+http://185.232.53.5:2086/arellano/kgtL965n2Y/65857?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV News Live Events 1
+http://greenstreamtv.xyz:25461/MS11/M1234/8069?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/MtSURrQ.png" group-title="Undefined",CA | Global Calgary,Global Calgary
+https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index_1.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/mhhVQE6.png" group-title="Undefined",CA | Global News,Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SHOWTIME 2 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/140408?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SHOWTIME EAST
+http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/204?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SHOWTIME FAMILY ZONE
+http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/3769?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET 360
+http://greenstreamtv.xyz:25461/MS11/M1234/1288?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET ONE
+http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/1289?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET_EAST
+http://greenstreamtv.xyz:25461/MS11/M1234/7839?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 2
+http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/1282?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 1
+http://185.232.53.5:2086/arellano/kgtL965n2Y/3202?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 3
+http://greenstreamtv.xyz:25461/MS11/M1234/1283?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 4
+http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/1284?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 5
+http://mains.vip:2086/craigg/1Lurn7m3F1/3198?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BNN_Bloomberg
+http://greenstreamtv.xyz:25461/MS11/M1234/7904?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NHL CALGARY FLAMES
+http://185.232.53.5:2086/arellano/kgtL965n2Y/55053?checkedby:hlscat.com
